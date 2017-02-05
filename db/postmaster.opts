@@ -1,0 +1,1 @@
+/anaconda/bin/postgres "-D" "/Users/dhruvmalik/flask_webapp/db"
